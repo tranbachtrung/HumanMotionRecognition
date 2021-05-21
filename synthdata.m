@@ -1,3 +1,6 @@
+% you can rewrite this to be better using the arrangement in collectdata.m
+% located in Charle's Scoliosis project code
+
 numdata = 100;
 
 t = linspace(0,pi,numdata);

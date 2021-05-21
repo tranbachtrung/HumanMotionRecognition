@@ -26,7 +26,7 @@ for i = 2:cA
 end
 
 DTWdist = sqrt(costM(cA,cB));
-% flipud(costM) % this put the cost matrix in the typical orientation.
+% flipud(costM) % this puts the cost matrix in the typical orientation.
 
 scfactor = 1;
 optipath(1,:) = [cA,cB];
